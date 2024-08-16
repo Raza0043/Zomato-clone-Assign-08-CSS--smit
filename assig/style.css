@@ -387,7 +387,7 @@ li {
     border: 1px solid #e6e6e6;
     border-radius: 4px 0 0 4px;
     width: 300px;
-    /* Adjust the width as needed */
+
 }
 
 .search-container button {
@@ -419,16 +419,6 @@ li {
     background-color: #0bf7ff;
 }
 
-/* Heading2 Styles */
-/* .heading2 {
-    padding: 5px;
-    background-color: #ff6868;  
-    color: #000000;
-    font-size: 15px;
-    margin-right: 10px;
-    display: flex;
-    align-content: right;
-} */
 
 .heading2 {
     padding: 0px 0px 0px 100px;
@@ -439,12 +429,8 @@ li {
     bottom: 10px;
     display: flex;
     justify-content: left;
-    /* Centers text horizontally within the flex container */
-    /* Aligns text to the left within the box */
-    /* margin-right: 10px;
-    padding-right: 100px; */
-}
 
+}
 
 
 
@@ -615,40 +601,40 @@ li {
 
 .smallb {
     display: flex;
-    /* Aligns buttons horizontally */
+
     gap: 50px;
-    /* Adds space between buttons */
+
     justify-content: center;
 
     padding: 0px 0px 0px 100px;
     margin-top: 30px;
-    /* Centers the buttons within the container */
+
     padding: 10px;
-    /* Optional padding around the button group */
+
 }
 
 .smallb button {
 
     padding: 0px 0px 0px 100px;
     padding: 15px 25px;
-    /* Increase padding for a larger button */
+
     font-size: 18px;
-    /* Increase the font size */
+
     background-color: #dddddd;
-    /* Change the background color */
+
     color: rgb(0, 0, 0);
-    /* Change the text color */
+
     border: none;
-    /* Remove the border */
+
     border-radius: 5px;
-    /* Adds rounded corners */
+
     cursor: pointer;
-    /* Change the cursor to a pointer on hover */
+
 }
 
 .smallb button:hover {
     background-color: #f7f7f7;
-    /* Lighter background color for hover effect */
+
 }
 
 
@@ -669,10 +655,10 @@ li {
     margin-top: 50px;
     display: flex;
 
-    
 
 
-    
+
+
 
 
 
@@ -696,16 +682,17 @@ li {
     border: 2px solid black;
     margin-left: 30px;
 
-    
+
     border-radius: 12px;
 
 }
-.Tex1{
-display: flex;
+
+.Tex1 {
+    display: flex;
 
     padding: 0px 0px 0px 100px;
-font-size: 20px;
-font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 
 
 }
@@ -714,67 +701,70 @@ font-family: 'Times New Roman', Times, serif;
 
 .smallb1 {
     display: flex;
-    
+
     gap: 50px;
-    
+
     padding: 0px 0px 0px 100px;
-    
+
     justify-content: center;
-    align-content: left ;
+    align-content: left;
 
     padding: 0px 0px 0px 100px;
     margin-top: 30px;
-    
+
     padding: 10px;
-    
+
 }
 
 .smallb1 button {
 
     padding: 0px 0px 0px 100px;
     padding: 15px 25px;
-    /* Increase padding for a larger button */
+
     font-size: 18px;
-    /* Increase the font size */
+
     background-color: #f1f1f1;
-    /* Change the background color */
+
     color: rgb(0, 0, 0);
-    /* Change the text color */
+
     border: none;
-    
+
     border-radius: 5px;
-    
+
     cursor: pointer;
-    
+
 }
 
 .smallb1 button:hover {
     background-color: #9c9c9c;
-    
-}
-body{
-
-background-color: #f3f3f3;
-height: 100%;
-width: 100%;
-
 
 }
-.circle{
 
-background-color: #ffffff;
+body {
+
+    background-color: #f3f3f3;
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.circle {
+
+    background-color: #ffffff;
 
     padding: 0px 0px 0px 100px;
 
 
 }
-.round1{
 
-display: flex;
-justify-content: center;
-align-content: center;
-gap: 35px;
-border-radius: 10px;
+.round1 {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 35px;
+    border-radius: 10px;
 
 
 
@@ -782,14 +772,10 @@ border-radius: 10px;
 }
 
 
-.tex2{
+.tex2 {
 
     padding: 0px 0px 0px 100px;
-margin-top: 20px;
-background-color: white;
+    margin-top: 20px;
+    background-color: white;
 
 }
-
-
-
-
